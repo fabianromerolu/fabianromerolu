@@ -5,11 +5,11 @@
 <h1 align="center">👋 Hola, soy Fabián Romero Lugo</h1>
 
 <p align="center">
-  <b>Full Stack Developer · Data & IA Enthusiast · Derecho + Tecnología</b>
+  <b>Full Stack Developer</b>
 </p>
 
 <p align="center">
-  Construyo soluciones web orientadas a negocio, datos e impacto social.
+  Construyo soluciones web orientadas a negocios de alto impacto.
 </p>
 
 <p align="center">
