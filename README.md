@@ -13,6 +13,12 @@
 </p>
 
 <p align="center">
+  <a href="https://drive.google.com/file/d/1fErPfKqiqNYxaMlNvR2odmXGSPZXXadw/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV%20Online-Ver%20mi%20CV-brightgreen?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
   <a href="mailto:fabianromerolu@gmail.com"><img src="https://img.shields.io/badge/Email-fabianromerolu%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/fabianromerolu/"><img src="https://img.shields.io/badge/LinkedIn-Ver%20perfil-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/fabianromerolu"><img src="https://img.shields.io/badge/GitHub-Perfiles%20y%20repos-181717?style=for-the-badge&logo=github" /></a>
