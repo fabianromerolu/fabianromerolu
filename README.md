@@ -1,186 +1,69 @@
-<!--
-  README de perfil de GitHub de Fabián Romero Lugo
--->
-
-<h1 align="center">👋 Hola, soy Fabián Romero Lugo</h1>
+<h1 align="center">Fabián Romero Lugo</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b>
+  <strong>Full Stack Developer · IA aplicada</strong><br />
+  Plataformas web, APIs, automatización e integración de sistemas.
 </p>
 
 <p align="center">
-  Construyo soluciones web orientadas a negocios de alto impacto.
+  <a href="https://www.linkedin.com/in/fabianromerolu/">LinkedIn</a> ·
+  <a href="mailto:fabianromerolu@gmail.com">Correo</a> ·
+  <a href="https://github.com/fabianromerolu?tab=repositories">Repositorios</a> ·
+  <a href="https://nexarva-platform.vercel.app">NEXARVA</a>
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1fErPfKqiqNYxaMlNvR2odmXGSPZXXadw/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/CV%20Online-Ver%20mi%20CV-brightgreen?style=for-the-badge" />
-  </a>
-</p>
+## Perfil
 
-<p align="center">
-  <a href="mailto:fabianromerolu@gmail.com"><img src="https://img.shields.io/badge/Email-fabianromerolu%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/fabianromerolu/"><img src="https://img.shields.io/badge/LinkedIn-Ver%20perfil-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/fabianromerolu"><img src="https://img.shields.io/badge/GitHub-Perfiles%20y%20repos-181717?style=for-the-badge&logo=github" /></a>
-</p>
+Desarrollador full stack y de inteligencia artificial aplicada, con experiencia sostenida desde 2023 construyendo y manteniendo plataformas web, portales administrativos, APIs e integraciones. Trabajo principalmente con TypeScript, React, Next.js, NestJS, Node.js, PostgreSQL y Python/FastAPI.
 
----
+He participado en productos empresariales con múltiples roles, pagos, operación multipaís y evolución continua, además de sistemas de análisis de imágenes y procesamiento documental. Actualmente curso **octavo semestre de Derecho**, formación que complementa mi enfoque en requisitos, trazabilidad, privacidad y diseño responsable.
 
-## 🧑‍💻 Sobre mí
+## Experiencia reciente
 
-Soy **Full Stack Developer** con ~3 años de experiencia construyendo **soluciones web orientadas a negocio**, con enfoque en:
+- **Desarrollo full stack en plataforma empresarial multipaís** — colaboración profesional en flujos transaccionales, prescripciones, puntos, checkout, portales operativos, correcciones y evolución funcional. Los nombres, métricas y activos de terceros se mantienen confidenciales.
+- **Desarrollador de IA aplicada para Syltec** — marzo a agosto de 2026. Participación en servicios con Python/FastAPI, machine learning, visión computacional, procesamiento audiovisual, interfaces Next.js, autenticación, auditoría y pruebas.
+- **Fundador y desarrollador de NEXARVA** — diseño de producto, arquitectura e implementación integral de una plataforma comercial y operativa propia.
 
-- Automatización de procesos.
-- Integración de **capacidades de IA y modelos de predicción**.
-- Plataformas con alto impacto real (salud, educación, análisis de violencia).
+## Proyecto destacado
 
-He trabajado en proyectos como:
+### [NEXARVA — Software a la medida y automatización empresarial](https://nexarva-platform.vercel.app)
 
-- 🩺 **Alivia** (Nutrabiotics): plataforma de prescripción médica, facturación y sistema de puntos para médicos y pacientes en Colombia, México y Perú.
-- 🛰️ **Tecnoobservatorio de Violencia (TOV)**: plataforma adoptada por la **Universidad Cooperativa de Colombia** para almacenar, analizar y predecir escenarios de violencia en entornos educativos (+1.000 registros).
+Plataforma propia para presentar servicios tecnológicos y operar el ciclo comercial: captación de leads, simulador de costos validado en servidor, snapshots históricos, agendamiento, autenticación administrativa, CRM inicial, contenido y auditoría.
 
-Además de tecnología, también estudio **Derecho**, lo que me da una mirada distinta sobre regulación, datos, ética e impacto social.
+- **Arquitectura:** monorepo, Next.js, NestJS y monolito modular.
+- **Datos y procesos:** PostgreSQL, Prisma y Graphile Worker.
+- **Calidad:** Vitest, Playwright, pruebas de concurrencia y controles de permisos.
+- **Operación:** Docker, GitHub Actions, Railway y Vercel.
+- **Estado de marca:** NEXARVA es una marca de trabajo en validación; el despliegue permanece fuera de indexación pública.
 
----
+> El código de NEXARVA es privado porque forma parte de un activo comercial. La aplicación desplegada permite revisar la experiencia pública.
 
-## 🎯 Lo que me mueve
+## Otros proyectos verificables
 
-- Convertir **problemas reales** en **productos digitales funcionales**.
-- Trabajar con datos: **predicción, análisis, visualización**.
-- Integrar **IA / Machine Learning** en aplicaciones web de forma práctica.
-- Diseñar flujos pensados en el usuario, no sólo en el código.
-- Construir soluciones que tengan impacto en **personas**, no sólo en métricas.
+- **Tecnoobservatorio de Violencia** — colaboración académica con un [backend público](https://github.com/fabianromerolu/tov-backend) y un [servicio de machine learning](https://github.com/fabianromerolu/ml-service). No se publican métricas de adopción sin autorización.
+- **[Plataforma Congreso UCC](https://github.com/fabianromerolu/ucc-monteria-congreso)** — desarrollo web para un evento académico.
+- **[Volantia](https://github.com/fabianromerolu/front-pf-henry)** — colaboración académica en una plataforma de alquiler de vehículos construida en equipo.
+- **[English Trainer](https://github.com/fabianromerolu/english-trainer)** — laboratorio personal de una interfaz de aprendizaje asistida por IA.
 
----
+## Capacidades principales
 
-## 🧠 Mi background en pocas líneas
+| Área | Tecnologías y prácticas |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, Tailwind CSS, MUI, Radix UI, Motion |
+| Backend | NestJS, Node.js, FastAPI, REST, OpenAPI, webhooks |
+| Datos | PostgreSQL, Prisma, SQLAlchemy, MongoDB, Redis |
+| IA aplicada | Scikit-Learn, PyTorch, OpenCV, WhisperX, pandas |
+| Calidad | Jest, Vitest, pytest, Testing Library, Playwright |
+| Operación | Docker, GitHub Actions, Railway, Vercel, AWS |
+| Producto | Discovery, requisitos, arquitectura de solución, mantenimiento evolutivo |
 
-- 💼 Experiencia como **Full Stack Developer** en una empresa de soluciones tecnológicas (Nutrabiotics / Alivia).
-- 🎓 Proyectos académicos con impacto social como **TOV**, mezclando derecho, ciencia de datos y desarrollo web.
-- 📊 Formación en **análisis de datos**, **IA generativa**, **Java/Spring**, **SQL** y más.
-- ⚖️ Estudiante de **Derecho**, interesado en tecnología aplicada a justicia social, seguridad y toma de decisiones basada en evidencia.
+## Cómo trabajo
 
----
+- Convierto procesos y restricciones en entregables funcionales y verificables.
+- Documento decisiones, límites y responsabilidades de forma explícita.
+- Priorizo seguridad, accesibilidad, trazabilidad y mantenibilidad desde el diseño.
+- Distingo con claridad proyectos propios, colaboraciones académicas y trabajo en equipos profesionales.
 
-## 🛠️ Habilidades principales
+## Contacto
 
-**Técnicas**
-
-- Desarrollo **Full Stack** (frontend + backend + bases de datos).
-- Diseño e implementación de **APIs**, servicios REST y arquitectura orientada a datos.
-- Construcción de **plataformas web** para:
-  - prescripciones médicas,
-  - sistemas de puntos,
-  - diagnósticos,
-  - mapas interactivos y paneles de visualización.
-- Integración de **modelos de Machine Learning** (Scikit-Learn) en entornos web.
-- Trabajo con **bases de datos relacionales y NoSQL**.
-- Deploy en la nube y servicios gestionados.
-
-**Blandas**
-
-- Pensamiento crítico y enfoque en **negocio**.
-- Comunicación clara con perfiles **técnicos y no técnicos**.
-- Trabajo interdisciplinario (derecho, ingeniería, ciencia de datos, ciencias sociales).
-- Autonomía, aprendizaje continuo y enfoque en resultados.
-
----
-
-## ⚙️ Stack tecnológico
-
-### 🧩 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
-</p>
-
-### 🧱 Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-</p>
-
-### 🗄️ Bases de datos
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-</p>
-
-### 📊 Data & IA
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Análisis%20de%20Datos-Google-blue" />
-</p>
-
-### 🧪 Testing, APIs & herramientas
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-</p>
-
-### ☁️ Infraestructura & Deploy
-
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white" />
-</p>
-
-### 📚 Otros
-
-<p>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=white" />
-</p>
-
----
-
-## 🚀 Algunos proyectos
-
-- **Volantia** – Plataforma web para la **renta de vehículos entre personas (P2P)**.  
-  Dueños de vehículos pueden generar ingresos alquilando su carro o moto, mientras otras personas acceden a vehículos sin endeudarse, pagando solo por el uso.
-
-- **Tecnoobservatorio de Violencia (TOV)** – Plataforma para **almacenar, analizar y predecir escenarios de violencia** en entornos educativos.  
-  Adoptada por la **Universidad Cooperativa de Colombia**, integra modelos predictivos, diagnósticos y un mapa interactivo de violencia.
-
----
-
-## 📫 ¿Hablamos?
-
-Si quieres conversar sobre:
-
-- proyectos de **tecnología con impacto social**,  
-- productos digitales desde cero,  
-- IA aplicada a problemas reales,  
-- o simplemente compartir ideas de código y café ☕,
-
-puedes contactarme por aquí:
-
-- 📍 Montería, Colombia  
-- ✉️ **Correo:** [fabianromerolu@gmail.com](mailto:fabianromerolu@gmail.com)  
-- 💼 **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/fabianromerolu/)  
-- 🐙 **GitHub:** [Mis repositorios](https://github.com/fabianromerolu)
-
----
-
-<p align="center">
-  <i>“Código con propósito, datos con contexto y tecnología con impacto.”</i>
-</p>
+Estoy en Montería, Colombia, y trabajo de forma remota. Puedes escribirme a [fabianromerolu@gmail.com](mailto:fabianromerolu@gmail.com) o contactarme por [LinkedIn](https://www.linkedin.com/in/fabianromerolu/).
